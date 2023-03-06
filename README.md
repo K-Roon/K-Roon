@@ -1,14 +1,14 @@
 ## KOR
 - 👋 안녕하세요. 저는 @K-Roon 입니다.
 - 👀 미안하지만, 전 아무것도 흥미가 없어요..
-- 🌱 현재는 Python, WEB 계열의 언어를 배우고 있답니다..
+- 🌱 현재는 Python, Flutter 학습 진행 중 입니다..
 - 💞️ 협력은 글쎄요..
-- 📫 어떻게 연락하냐고요? 저도 몰라요!
+- 📫 어떻게 연락하냐고요? 잘 연락해 보세요!
 
 ## English
 - 👋 Hi, I’m @K-Roon
 - 👀 I’m interested in NOTHING
-- 🌱 I’m currently learning  Python, WEB
+- 🌱 I’m currently learning Python, Flutter
 - 💞️ I’m not looking to collaborate on.
 - 📫 How to reach me? I DON'T KNOW
 
