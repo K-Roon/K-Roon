@@ -8,7 +8,7 @@
 - 👋 Hi, I’m @K-Roon
 - 👀 I’m interested in NOTHING
 - 🌱 I’m currently learning Python, Flutter
-- 📫 How to reach me? I DON'T KNOW
+- 📫 How to reach me? DO IT WELL!
 
 <!---
 K-Roon/K-Roon 은 ✨ 특별한 ✨ 리포지토리 입니다. 왜냐하면 `README.md` (이 파일) 는 당신의 GitHub profile 에 보이기 때문이죠.
