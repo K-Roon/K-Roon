@@ -1,12 +1,12 @@
 ## KOR
 - 👋 안녕하세요. 저는 @K-Roon 입니다.
-- 👀 미안하지만, 전 아무것도 흥미가 없어요..
+- 👀 Bing AI, Chat GPT System
 - 🌱 현재는 Python, Flutter 학습 진행 중 입니다..
 - 📫 어떻게 연락하냐고요? 잘 연락해 보세요!
 
 ## English
 - 👋 Hi, I’m @K-Roon
-- 👀 I’m interested in NOTHING
+- 👀 Bing AI, Chat GPT System
 - 🌱 I’m currently learning Python, Flutter
 - 📫 How to reach me? DO IT WELL!
 
