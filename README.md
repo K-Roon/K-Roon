@@ -2,7 +2,7 @@
 K-Roon/K-Roon 은 ✨ 특별한 ✨ 리포지토리 입니다. 왜냐하면 `README.md` (이 파일) 는 당신의 GitHub profile 에 보이기 때문이죠.
 Preview (미리보기)를 클릭해서 어떻게 바뀌었는지 미리 보실 수 있어요.
 --->
-# 내 GitHub 프로필에 오신 것을 환영합니다! 👋
+# 권재현의 GitHub 프로필에 오신 것을 환영합니다! 👋
 
 [![My GitHub](https://img.shields.io/badge/GitHub-Profile-blue.svg)](https://github.com/K-Roon)
 
@@ -34,6 +34,21 @@ Preview (미리보기)를 클릭해서 어떻게 바뀌었는지 미리 보실 �
   - 프로젝트 설명: Apple Home을 사용하여 공기 조화기를 제어하는 프로젝트입니다.
   - 주요 기능: 스마트 홈 통합, 기기 제어 및 자동화.
   - [GitHub 링크](https://github.com/K-Roon/homebridge-smartthings-aircon)
+
+- **nodeJsLearn_01**  
+  - 프로젝트 설명: Node.js를 사용한 학습 프로젝트입니다.
+  - 주요 기능: 서버 사이드 노드 애플리케이션 개발, 쿠키 및 세션 처리.
+  - [GitHub 링크](https://github.com/K-Roon/nodeJsLearn_01)
+
+- **cargo_app**  
+  - 프로젝트 설명: Dart를 사용한 앱 개발 프로젝트입니다.
+  - 주요 기능: 앱 개발 및 테스트.
+  - [GitHub 링크](https://github.com/K-Roon/cargo_app)
+
+- **K-Roon**  
+  - 프로젝트 설명: GitHub 프로필을 위한 구성 파일입니다.
+  - 주요 기능: 프로필 관리 및 설정.
+  - [GitHub 링크](https://github.com/K-Roon/K-Roon)
 
 ## 기술 스택
 - **언어:** Python, JavaScript, C++, Java
