@@ -17,13 +17,13 @@ Preview (미리보기)를 클릭해서 어떻게 바뀌었는지 미리 보실 �
   - 주요 기능: 앱 개발 및 테스트.
   - [GitHub 링크](https://github.com/K-Roon/cargo_app)
 - **식사추천 앱**
-  - 프로젝트 설명: 개인 맞춤형 식단을 추천하는 앱입니다.
+  - 프로젝트 설명: 개인 맞춤형 식단을 추천하는 앱입니다. Flutter 프레임워크를 이용한 Dart 언어 기반의 크로스플랫폼 앱입니다.
   - 주요 기능: 음식 데이터 분석, 맞춤 추천 알고리즘.
   - [GitHub 링크](https://github.com/K-Roon/meal_recommend_app) (public)
-- **homebridge-heyhome-ir**
+- **homebridge-hejhome-ir**
   - 프로젝트 설명: HejHome IR 기기를 Homebridge로 통합하여 제어하는 프로젝트입니다. 이를 통해 Apple Home에서 제어할 수 있게됩니다.
   - 주요 기능: IR 제어, Siri 명령을 통한 기기 제어, 단축어 혹은 Home 앱의 자동화를 통해 기기 자동화제어 및 스케줄링.
-  - [GitHub 링크](https://github.com/K-Roon/homebridge-heyhome-ir) (public)
+  - [GitHub 링크](https://github.com/K-Roon/homebridge-hejhome-ir) (public)
 
 ## 기술 스택
 - **언어:** Python, JavaScript, TypeScript, Java, Node.js
