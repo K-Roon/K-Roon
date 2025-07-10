@@ -21,12 +21,12 @@ Preview (미리보기)를 클릭해서 어떻게 바뀌었는지 미리 보실 �
   - 주요 기능: 음식 데이터 분석, 맞춤 추천 알고리즘.
   - [GitHub 링크](https://github.com/K-Roon/meal_recommend_app) (public)
 - **homebridge-heyhome-ir**
-  - 프로젝트 설명: HeyHome IR 기기를 Homebridge로 통합하여 제어하는 프로젝트입니다.
-  - 주요 기능: IR 제어, 자동화 및 스케줄링.
+  - 프로젝트 설명: HejHome IR 기기를 Homebridge로 통합하여 제어하는 프로젝트입니다. 이를 통해 Apple Home에서 제어할 수 있게됩니다.
+  - 주요 기능: IR 제어, Siri 명령을 통한 기기 제어, 단축어 혹은 Home 앱의 자동화를 통해 기기 자동화제어 및 스케줄링.
   - [GitHub 링크](https://github.com/K-Roon/homebridge-heyhome-ir) (public)
 
 ## 기술 스택
-- **언어:** Python, JavaScript, TypeScript, C++, Java, Node.js
+- **언어:** Python, JavaScript, TypeScript, Java, Node.js
 - **프레임워크:** Spring, Flutter
 - **도구:** Git, Docker
 - **기타:** 웹개발 및 Flutter 프레임워크 기반 앱 개발
