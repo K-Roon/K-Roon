@@ -8,22 +8,28 @@ Preview (미리보기)를 클릭해서 어떻게 바뀌었는지 미리 보실 �
 
 ## 소개
 안녕하세요! 저는 권재현입니다. 열정적인 개발자로 항상 배우고 창조하는 것을 즐깁니다. 여기서는 제가 작업하고 있는 프로젝트들과 기술 커뮤니티와의 협업 내용을 확인할 수 있습니다.
+최근에는 최신 프로젝트를 공개 저장소로 관리하며 **식사추천 앱**과 **홈브릿지 헤이홈 IR 프로젝트** 등을 활발히 개발하고 있습니다.
+또한 Flutter와 Node.js, TypeScript 기반 개발에 집중하며 앱과 웹 서비스를 확장하고 있습니다.
 
 ## 주요 프로젝트
-- **homebridge-smartthings-aircon**  
-  - 프로젝트 설명: Apple Home을 사용하여 IR 신호를 받는 기기를 제어하는 프로젝트입니다.
-  - 주요 기능: 스마트 홈 통합, 기기 제어 및 자동화.
-  - [GitHub 링크](https://github.com/K-Roon/homebridge-smartthings-aircon)
-- **cargo_app**  
+- **cargo_app**
   - 프로젝트 설명: Dart를 사용한 앱 개발 프로젝트입니다.
   - 주요 기능: 앱 개발 및 테스트.
   - [GitHub 링크](https://github.com/K-Roon/cargo_app)
+- **식사추천 앱**
+  - 프로젝트 설명: 개인 맞춤형 식단을 추천하는 앱입니다.
+  - 주요 기능: 음식 데이터 분석, 맞춤 추천 알고리즘.
+  - [GitHub 링크](https://github.com/K-Roon/meal_recommend_app) (public)
+- **homebridge-heyhome-ir**
+  - 프로젝트 설명: HeyHome IR 기기를 Homebridge로 통합하여 제어하는 프로젝트입니다.
+  - 주요 기능: IR 제어, 자동화 및 스케줄링.
+  - [GitHub 링크](https://github.com/K-Roon/homebridge-heyhome-ir) (public)
 
 ## 기술 스택
-- **언어:** Python, JavaScript, C++, Java
-- **프레임워크:** Spring
-- **도구:** Git, Docker, Kubernetes
-- **기타:** 웹 개발
+- **언어:** Python, JavaScript, TypeScript, C++, Java, Node.js
+- **프레임워크:** Spring, Flutter
+- **도구:** Git, Docker
+- **기타:** 웹개발 및 Flutter 프레임워크 기반 앱 개발
 
 ## 통계
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-Roon&show_icons=true&theme=radical)
